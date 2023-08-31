@@ -1,0 +1,74 @@
+* {
+    background-color: darkgrey;
+}
+
+/* Header Styling */
+header {
+    background-color: darkslategray;
+}
+
+header h1 {
+    background-color: lightblue;
+    display: inline-block;
+    font-size: 48px;
+    text-align: left;
+}
+
+header nav {
+    background-color: darkslategray;
+    padding-top: 15px;
+    margin-right: 50px;
+    float: right;
+    font-size: 20px;
+    
+}
+
+header nav ul {
+    background-color: darkslategray;
+    list-style-type: none;
+}
+
+header nav ul li {
+    background-color: darkslategray;
+    display: inline-block;
+    margin-left: 0px;
+}
+
+header nav ul li a {
+    background-color: darkslategray;
+    color:lightblue;
+}
+
+/* Hero Card Styling */
+.hero {
+    height: 150px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-color: grey;
+    background-size: cover;
+    background-position: center;
+    text-align: right;
+    display:inline-block
+}
+
+.hero h2 {
+    display:inline-block;
+    margin-top: 70px;
+    margin-right: 50px;
+    font-size: 36px;
+    background-color: lightblue;
+}
+
+/* Main Styling */
+main section {
+    font-size: 20px;
+}
+
+main section ul {
+    list-style-type: none;
+}
+
+main section ul li {
+    display: inline-block;
+    margin-left: 0px;
+}
